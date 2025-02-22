@@ -66,7 +66,7 @@ The dataset used in this project is the `Churn_Modelling.csv` file, which contai
 ## Installation
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/churn-prediction.git
+git clone https://github.com/irehmanar/ChurnPrediction.git
 cd churn-prediction
 
 # Install the required libraries
